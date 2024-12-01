@@ -869,3 +869,98 @@ Cumulative Trauma Disorders, also known as Repetitive Strain Injuries (RSIs), ar
 - **Stretching and Exercise:** Stretching before and during work can help maintain flexibility and reduce muscle fatigue. Strengthening exercises can also improve the body’s resilience to physical stress.
 - **Training and Education:** Educating workers about proper lifting techniques, posture, and ergonomics is essential in preventing MSDs and CTDs.
 
+---
+
+### National Building Code of India (NBC) Guidelines for Residential Buildings
+
+#### General Overview
+- Provides standardized guidelines for constructing residential, mercantile, institutional, educational, commercial, assembly, storage, and hazardous buildings.
+- Aims to ensure the structural health of buildings, public safety, and resident health.
+- Initially published in 1970, revised in 1983 and 2005.
+
+#### Definition of Residential Buildings
+- Buildings with sleeping accommodation for residential purposes, with or without cooking or dining facilities.
+- Categories:
+  - Lodging or rooming houses.
+  - One or two-family private dwellings.
+  - Dormitories.
+  - Apartment houses or flats.
+  - Hotels.
+
+---
+
+#### **NBC Guidelines for Kitchens**
+- Provision for washing utensils with proper drainage connection.
+- Impermeable flooring is mandatory.
+- Must open into an open interior/exterior space of at least 1 sq meter.
+- Should not open into a shaft.
+- Prohibition on chutes in buildings above 15 meters.
+
+---
+
+#### **NBC Guidelines for Bathrooms**
+- At least one wall must open to the air with a minimum ventilation area of 0.37 sq meters.
+- Bathrooms should be over other bathrooms, washing places, or terrace spaces (exceptions: watertight floors).
+- Non-absorbent seat materials.
+- Enclosures with impervious partitions/walls at least 1 meter high.
+- Impervious flooring sloping towards the drain.
+- Toilets with water closets must have flush cisterns.
+- Terrace toilets with a height of 2.2 meters are included in FAR calculations.
+- Septic tank provision in the absence of a sewage outlet.
+
+---
+
+#### **NBC Guidelines for Lofts**
+- Permitted in residential buildings (not shops).
+- Maximum loft area: 25% of the covered area.
+- Minimum height between loft and ceiling: 1.75 meters.
+
+---
+
+#### **NBC Guidelines for Basements**
+- Height: 2.5 to 4.5 meters; ceiling height above road: 0.9 to 1.2 meters.
+- Adequate ventilation via blowers, exhaust fans, or air conditioning.
+- Water-proof walls and floors.
+- Surface drainage must not enter the basement.
+- Access only via the main entrance or an alternative staircase within the building.
+- Projection basements must meet specific conditions to touch adjacent properties.
+
+---
+
+#### **NBC Guidelines for Building Exits**
+- Must ensure safe escape during emergencies like fire or earthquakes.
+- Compulsory, clearly visible, and illuminated exits.
+- Cannot reduce exits in number or width.
+- Alarm systems for evacuation.
+- Exits must lead to the building's exterior.
+- Can be horizontal or vertical; lifts and revolving doors are not considered exits.
+
+---
+
+#### **NBC Guidelines for Fire Safety**
+- Large buildings require automatic fire detection and alarm systems.
+- Fire safety installations: extinguishers, wet risers, automatic sprinklers, etc., as per standards.
+
+---
+
+#### **NBC Guidelines for Staircases**
+- **Group Housing**: 
+  - Single staircase acceptable for floor area ≤ 300 sq meters and height ≤ 24 meters.
+  - Minimum two staircases for specific buildings as per Bye-Laws No 1.13 VI.
+- **Width Requirements**:
+  - Low-rise residential: Minimum 0.9 meters.
+  - Flats, hostels, guest houses: Minimum 1.25 meters.
+
+#### **Stairway Construction Standards**
+- Non-combustible material only.
+- One side adjacent to an external wall, completely enclosed.
+- Chief fire officer’s approval for location.
+- Minimum handrail height: 100 cm.
+- Adherence to NBC standards for treads, arrangement, and headroom.
+- Restrictions:
+  - Living spaces and stores cannot open into staircases.
+  - Continuous staircases from ground floor to terrace level.
+  - Prohibition on electrical shafts, AC ducts, gas pipelines in staircases.
+  - No combustible materials for decoration or panelling.
+  - Structural elements (beams, columns) should not reduce headroom or width.
+
