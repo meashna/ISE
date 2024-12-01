@@ -102,7 +102,7 @@ Safety is a critical concern across all phases of construction due to the follow
    - Demolition  
    - Confined Spaces  
    - Temporary Structures  
-
+---
 #### **1.Excavation and Filling**
 
 #### **Hazards in Excavation**
@@ -154,7 +154,7 @@ Safety is a critical concern across all phases of construction due to the follow
 - Mandate helmets, goggles, and protective clothing for workers.
 - Assign flagmen for public safety and vehicular guidance.
 - Ensure proper ventilation and avoid hazardous material exposure.
-
+---
 #### **2.Underwater Works**
 
 #### **Hazards in Underwater Construction**
@@ -204,7 +204,7 @@ Safety is a critical concern across all phases of construction due to the follow
 - Adhere to decompression schedules during ascent.
 - Limit the number of dives per day.
 
-
+---
 #### **3.Underpinning and Shoring**
 
 Underpinning involves strengthening and stabilizing the foundation of an existing structure.
@@ -274,7 +274,7 @@ Shoring is the process of temporarily supporting a structure or trench during co
    - Only qualified personnel should dismantle shoring systems.
    - Remove braces and other supports sequentially to avoid collapse.
    - Ensure no components are removed until supervisor approval.
-     
+---     
 
 #### **4.Ladders and Scaffolds**
 
@@ -338,6 +338,7 @@ Temporary platforms used for supporting workers and materials during constructio
    - Clear nails and pile materials safely during dismantling.
    - Avoid premature removal of structural supports to prevent collapse.
 
+---
 
 #### **5.Tunneling**
 
@@ -389,6 +390,8 @@ Temporary platforms used for supporting workers and materials during constructio
 - Conduct regular inspections of work platforms and machinery.
 - Ensure proper drainage systems are in place to prevent flooding.
 - Limit access to authorized personnel only to maintain site control.
+
+---
 
 #### **6.Blasting**
 
@@ -445,6 +448,7 @@ Temporary platforms used for supporting workers and materials during constructio
    - Segregate and dispose of rubble responsibly.
    - Suppress dust using water sprays.
 
+---
 
 #### **7.Demolition**
 
@@ -508,6 +512,7 @@ Temporary platforms used for supporting workers and materials during constructio
    - Assess the site for remaining hazards before allowing entry.
    - Verify that all utilities have been reconnected correctly if needed.
 
+---
 
 #### **8.Confined Spaces**
 
@@ -556,6 +561,7 @@ Temporary platforms used for supporting workers and materials during constructio
 - Avoid entering confined spaces unless absolutely necessary; use remote tools where possible.
 - Ensure all equipment, such as lighting and machinery, is intrinsically safe to prevent ignition risks.
   
+---
 
 #### **9.Temporary Structures**
 
