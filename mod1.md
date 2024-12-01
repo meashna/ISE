@@ -575,7 +575,7 @@ A **safety policy** is a recognized document that serves as a blueprint for work
 
 --- 
 
-#### **Safety Officer**
+### **Safety Officer**
 
 A **safety officer** is a designated professional within an organization tasked with maintaining a safe and healthy work environment. They act as the central figure in implementing, monitoring, and improving safety measures to prevent workplace accidents and ensure regulatory compliance.
 
@@ -663,7 +663,7 @@ A **safety officer** is a designated professional within an organization tasked 
 
 ---
 
-#### **Safety Committee**
+### **Safety Committee**
 
 A **safety committee** is a formal group within an organization that includes representatives from various departments, such as management, workers, and safety officers, working collaboratively to promote a safe and healthy work environment.
 
