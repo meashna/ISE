@@ -39,7 +39,7 @@
 
 ---
 
-### **Personal Protection in the Work Environment**
+## **1.Personal Protection in the Work Environment**
 
 **Definition:**
 Personal protection in the work environment involves measures and equipment designed to safeguard workers from hazards that may arise during their tasks. The primary focus is on awareness of risks, compliance with safety protocols, and the use of appropriate protective measures.
@@ -91,7 +91,7 @@ Personal protection in the work environment involves measures and equipment desi
 
 ---
 
-### **Types of PPEs**
+## **2.Types of PPEs**
 
 PPE (Personal Protective Equipment) is categorized into **Respiratory** and **Non-Respiratory** equipment. Each type is designed to address specific workplace hazards to ensure worker safety.
 
@@ -257,7 +257,7 @@ PPE (Personal Protective Equipment) is categorized into **Respiratory** and **No
 
 ---
 
-### **Standards Related to PPEs**
+## **3.Standards Related to PPEs**
 
 **Overview:**  
 Standards for Personal Protective Equipment (PPE) ensure that protective gear meets minimum safety requirements to effectively safeguard workers from workplace hazards. These standards are established by organizations such as OSHA (Occupational Safety and Health Administration), ANSI (American National Standards Institute), and ASTM (American Society for Testing and Materials).
@@ -331,7 +331,7 @@ Standards for Personal Protective Equipment (PPE) ensure that protective gear me
 
 ---
 
-### **Monitoring Safety Performance**
+## **4.Monitoring Safety Performance**
 
 Monitoring safety performance is critical for understanding workplace hazards and taking preventive measures. Metrics like **Frequency Rate**, **Severity Rate**, **Incidence Rate**, and **Activity Rate** are used to evaluate and improve safety standards.
 
@@ -432,7 +432,7 @@ Measures the proactive efforts taken to reduce workplace hazards.
 ---
 
 
-### **Housekeeping**
+## **5.Housekeeping**
 
 Housekeeping in the workplace refers to maintaining a clean, organized, and safe environment. It includes cleanliness, proper arrangement of tools and materials, and systematic waste management to eliminate hazards.
 
@@ -519,7 +519,7 @@ The **5S System** is a structured approach to housekeeping aimed at improving wo
 ---
 
 
-### **Work Permit System**
+## **6.Work Permit System**
 
 A **Work Permit System** is a formal, documented process that authorizes certain activities in potentially hazardous areas or under nonstandard conditions. It ensures safety by specifying controls and responsibilities.
 
@@ -611,20 +611,9 @@ Cold work permits are issued for tasks that do not involve sources of ignition o
 
 **Applications:**
 - Confined space entry, non-electrical repairs, and chemical processing.
-
-
-#### **Comparison of Hot Work and Cold Work Permits**
-
-| **Aspect**            | **Hot Work Permit**                  | **Cold Work Permit**               |
-|-----------------------|--------------------------------------|-------------------------------------|
-| **Hazard Type**       | Ignition, fire, explosion           | Non-ignition hazards               |
-| **Examples**          | Welding, cutting, grinding          | Inspections, routine maintenance   |
-| **Safety Measures**   | Fire watch, extinguishers, fireproof barriers | PPE, ventilation, lockout/tagout   |
-| **Documentation**     | Focus on ignition control           | Focus on hazard-specific controls  |
-
 ---
 
-### **Entry into Confined Spaces**
+## **7.Entry into Confined Spaces**
 
 **Definition:**  
 A confined space is an area that is not designed for continuous human occupancy, has restricted access or egress, and may pose significant health and safety risks due to its structure, contents, or the activities performed within it.
