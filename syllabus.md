@@ -92,7 +92,7 @@
 
 ---
 
-### **Module III: Safety Issues in Construction **
+### **Module III: Safety Issues in Construction**
 
 1. **Introduction to Construction Industry and Safety Issues**  
    - **Q5:** Write five critical reasons for the high rate of accidents in construction.
