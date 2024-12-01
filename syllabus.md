@@ -1,4 +1,4 @@
-### **Module I: Safety Introduction **
+### **Module I: Safety Introduction**
 
 1. **Need for Safety**  
    - **Q1:** Write the importance of safety in organizations.
@@ -149,7 +149,7 @@
 
 ---
 
-### **Module V: Hazard Identification and Analysis (8 hrs)**
+### **Module V: Hazard Identification and Analysis**
 
 1. **Hazard and Risk**  
    - **Q9:** What do you mean by hazard and risk?
