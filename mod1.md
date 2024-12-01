@@ -52,7 +52,7 @@
 
 ---
 
-### **1. Need for Safety**
+## **1. Need for Safety**
 
 **Importance of Safety in Organizations:**
 - **Reduction in Accidents:** Safety measures are essential to minimize occupational and industrial accidents, which significantly impact productivity and morale. Organizations experience loss in production time due to injuries, medical leaves, and the involvement of other workers in damage control.  
@@ -70,7 +70,7 @@ Key Benefits:
 
 ---
 
-### **2. Safety and Productivity**
+## **2. Safety and Productivity**
 
 **How Safety Management Improves Productivity in a Firm:**
 
@@ -103,7 +103,7 @@ Key Outcomes:
 
 ---
 
-### **3. Definitions**
+## **3. Definitions**
 
 1. **Accident:**
    - An accident is an unintended and unexpected event causing injury, illness, or property damage.  
@@ -169,7 +169,7 @@ Key Outcomes:
 
 --- 
 
-### **4. Theories of Accident Causation**
+## **4. Theories of Accident Causation**
 
 1. Heinrich's Domino Theory  
 2. Human Factors Theory  
@@ -276,7 +276,7 @@ Key Outcomes:
  
 ---
 
-#### **Safety Organization:**
+## **5.Safety Organization:**
 
 A **safety organization** is the structured arrangement within an enterprise that ensures the implementation and enforcement of safety policies and measures to prevent accidents and promote a safe working environment.
 
@@ -392,7 +392,7 @@ Below is a schematic representation of the different types of safety organizatio
 
 ---
 
-#### **Roles in Safety**
+## **6.Roles in Safety**
 
 1. **Management:**
    - **Responsibilities:**
@@ -510,7 +510,7 @@ Below is a schematic representation of the different types of safety organizatio
 ---
 
 
-### **Safety Policy**
+## **7.Safety Policy**
 
 **Definition:**
 - A safety policy is a formal, written document that outlines an organization's commitment to maintaining a safe and healthy workplace for its employees, contractors, and visitors. It also details the strategies and measures implemented to prevent accidents, injuries, and health hazards.
@@ -575,7 +575,7 @@ A **safety policy** is a recognized document that serves as a blueprint for work
 
 --- 
 
-### **Safety Officer**
+## **8.Safety Officer**
 
 A **safety officer** is a designated professional within an organization tasked with maintaining a safe and healthy work environment. They act as the central figure in implementing, monitoring, and improving safety measures to prevent workplace accidents and ensure regulatory compliance.
 
@@ -663,7 +663,7 @@ A **safety officer** is a designated professional within an organization tasked 
 
 ---
 
-### **Safety Committee**
+## **9.Safety Committee**
 
 A **safety committee** is a formal group within an organization that includes representatives from various departments, such as management, workers, and safety officers, working collaboratively to promote a safe and healthy work environment.
 
