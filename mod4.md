@@ -57,6 +57,16 @@ The **Point-of-Operation** is the area where work is done on the material, such 
 
 **Machine guards are the first line of defense against injuries caused by machine operations.** The purpose of a guard is to prevent contact with moving parts, protect against flying debris, and reduce the chances of an injury occurring at the point of operation.
 
+*1. Fixed Guards*
+*2. Interlocked Guards*
+*3. Adjustable Guards*
+*4. Self-Adjusting Guards*
+*5. Presence-Sensing Devices*
+*6. Pullback Devices*
+*7. Restraint Devices**
+*8. Safety Trip Controls*
+*9. Two-Hand Control Devices*
+*10. Two-Hand Trip Devices*
 
 #### **1. Fixed Guards**
 - **Description**: Fixed guards are permanent barriers that enclose dangerous areas of a machine. They cannot be moved or altered while the machine is in operation.
@@ -123,7 +133,6 @@ The **Point-of-Operation** is the area where work is done on the material, such 
   - Only suitable for machines with stroking or similar actions.
   - Requires regular inspection to ensure the cables and pullback mechanism are working properly.
 
-
 #### **7. Restraint Devices**
 - **Description**: These devices limit the movement of the operator’s arms or hands by attaching them to cables or straps. They ensure the operator cannot reach into dangerous parts of the machine.
 - **Application**: Used in operations where workers need to keep their hands away from moving parts.
@@ -133,7 +142,6 @@ The **Point-of-Operation** is the area where work is done on the material, such 
 - **Disadvantages**:
   - May restrict movement or comfort, which can affect productivity.
   - Needs to be adjusted properly to ensure it does not interfere with the task.
-
 
 
 #### **8. Safety Trip Controls**
@@ -147,7 +155,6 @@ The **Point-of-Operation** is the area where work is done on the material, such 
   - Can be accidentally triggered, causing unnecessary downtime.
 
 
-
 #### **9. Two-Hand Control Devices**
 - **Description**: This device requires the operator to simultaneously press two buttons or levers to operate the machine, ensuring both hands are kept away from the danger area.
 - **Application**: Commonly used in machines like power presses, stamping presses, and similar equipment.
@@ -157,7 +164,6 @@ The **Point-of-Operation** is the area where work is done on the material, such 
 - **Disadvantages**:
   - Can slow down production due to the requirement of using both hands.
   - May not be suitable for all types of machines or tasks.
-
 
 #### **10. Two-Hand Trip Devices**
 - **Description**: Requires the operator to apply pressure on two separate trip buttons simultaneously to start the machine. Once the machine cycle starts, the operator's hands are free to perform the task.
