@@ -1,28 +1,38 @@
 ### **Module III: Safety Issues in Construction**
 
 1. **Introduction to Construction Industry and Safety Issues**  
-   - **Q5:** Write five critical reasons for the high rate of accidents in construction.
+   - ❓ Write five critical reasons for the high rate of accidents in construction.
 
 2. **Safety in Construction Operations**  
    - Excavation and Filling  
-     - **Q6:** Explain safety practices in excavation works.  
+     - ❓ Explain safety practices in excavation works.  
+     - ❓ Discuss safety measures during excavation works.  
    - Underwater Works  
-     - **Q5:** List various hazards of underwater works.  
+     - ❓ List various hazards of underwater works.  
    - Underpinning and Shoring  
-     - **Q15b:** Discuss hazards and risks during underpinning works.  
+     - ❓ Discuss hazards and risks during underpinning works.  
+     - ❓ How can workers' safety be ensured during underpinning work?  
    - Ladders and Scaffolds  
-     - **Q15a:** Mention eight safety precautions for scaffolding.  
-   - Tunneling  
-   - Blasting  
+     - ❓ Mention eight safety precautions for scaffolding.  
+     - ❓ Mention safety precautions to avoid scaffolding-related incidents.  
+     - ❓ List six safety practices used with ladders in construction sites.  
    - Demolition  
+     - ❓ As an engineering supervisor, how do you ensure overall safety during demolition operations?  
+     - ❓ What are the safety measures for the demolition of a 10-storey building in a congested residential area?  
    - Confined Spaces  
-     - **Q16a:** What are safety precautions to take before entering a confined space?  
+     - ❓ What are safety precautions to take before entering a confined space?  
    - Temporary Structures  
 
 3. **Ergonomics in Construction Safety**  
    - Ergonomics Hazards: Musculoskeletal Disorders and Cumulative Trauma Disorders  
-   - **Q16b:** Discuss ergonomic hazards associated with construction industries.
+     - ❓ Discuss ergonomic hazards associated with construction industries.  
+     - ❓ Write short notes on cumulative trauma disorders due to ergonomic issues in worksites.  
+   - Impact Reduction of Ergonomic Hazards  
+     - ❓ How can ergonomic hazards be reduced in construction industries?  
 
+4. **National Building Code and Safety Provisions**  
+   - ❓ Discuss construction safety provisions in the National Building Code.  
+   - ❓ Explain the classification of residential buildings based on the National Building Code of India.  
 ---
 
 ## **1.Introduction to the Construction Industry**
