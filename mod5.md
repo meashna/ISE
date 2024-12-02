@@ -1,31 +1,40 @@
 ### **Module V: Hazard Identification and Analysis**
 
 1. **Hazard and Risk**  
-   - **Q9:** What do you mean by hazard and risk?
+   - ❓ What do you mean by hazard and risk?
 
 2. **Types of Hazards**  
    - Classification of Fire  
-     - **Q20a:** Describe the classification of fires and types of extinguishers.  
+     - ❓ Describe the classification of fires and types of extinguishers.  
+     - ❓ Explain any four types of fire extinguishers and their functions.  
    - Fire Explosion and Toxic Gas Release  
-     - **Q10:** Write a short note on toxic gas release due to chemical and fire explosions.
+     - ❓ Write a short note on toxic gas release due to chemical and fire explosions.  
+     - ❓ Explain the different causes of electric hazards.  
 
 3. **Hazard Identification and Risk Assessment**  
    - Inventory Analysis  
    - Fire and Explosion Hazard Rating of Process Plants  
    - Dow Fire and Explosion Hazard Index  
+   - ❓ Explain the need for a Preliminary Hazard Analysis in a hazardous industry.  
 
 4. **Hazard and Operability Study (HAZOP)**  
    - Methodology  
    - Criticality Analysis  
    - Corrective Action and Follow-up  
-   - **Q19a:** Describe the relevance and procedure of HAZOP for safety assessment.
+     - ❓ What is meant by HAZOP?  
+     - ❓ What is the significance of HAZOP analysis, and how do you conduct a HAZOP study?  
+     - ❓ Describe the relevance and procedure of HAZOP for safety assessment.  
+     - ❓ Briefly explain Criticality Analysis.  
 
 5. **Control of Chemical Hazards**  
-   - **Q20b:** Discuss the hazardous properties of chemical materials.
+   - ❓ Discuss different types of chemical hazards with suitable examples.  
+   - ❓ Describe any four hazardous properties of chemical materials.  
+   - ❓ Explain the hierarchy of control of chemical hazards.  
 
 6. **Material Safety Data Sheets (MSDS)**  
-   - **Q10:** Why is MSDS mandatory for chemical products?  
-   - **Q19b:** How does MSDS differ from a product label?
+   - ❓ What is meant by MSDS?  
+   - ❓ Why is MSDS mandatory for chemical products?  
+   - ❓ How does MSDS differ from a product label?  
 
   ---
 
