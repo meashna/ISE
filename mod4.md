@@ -3,29 +3,36 @@
 1. **Machinery Safeguards**  
    - Point-of-Operation  
    - Types of Guards and Devices  
-   - **Q7:** Explain the operation of safety guards with examples.
+     - ❓ With suitable sketches, explain the operation of any two types of safety guards suitable for industrial applications.  
+     - ❓ With suitable schematics, explain the operation of any presence sensing device suitable as a safety guarding device for an industrial unit.  
 
 2. **Safety in Turning and Grinding**  
-   - **Q8:** List safety precautions for grinding operations.
+   - ❓ List the safety precautions to be followed during grinding operations.  
+   - ❓ Explain the potential hazards associated with grinding operations.  
 
 3. **Welding and Cutting**  
    - Gas Welding  
+     - ❓ Discuss the safety issues associated with gas welding operations.  
    - Arc Welding  
-   - **Q18a:** Discuss safety precautions for gas welding operations.
+     - ❓ Describe the safety practices to be followed during arc welding process.  
 
 4. **Material Handling**  
    - Manual and Mechanical Handling  
-     - **Q7:** Differentiate between manual and mechanized material handling.  
+     - ❓ Differentiate between manual and mechanized material handling with suitable examples.  
    - Lifting, Carrying, Pulling, Pushing, Palletizing, and Stocking  
+     - ❓ Mention any four potential hazards associated with wire rope used for material handling.  
+     - ❓ Explain the safety guidelines to be followed for lifting hooks used in heavy industrial mechanisms.  
+     - ❓ Discuss safety precautions to be followed while doing various material handling assessments and techniques in industries.  
    - Material Handling Equipment  
-     - Operation and Maintenance  
+     - ❓ Explain the maintenance strategy for handling equipment (e.g., cranes, conveyors, hoists) to ensure a safe working environment.  
    - Maintenance of Common Elements  
      - Wire Rope, Chains, Slings, Hooks, Clamps  
-     - **Q17:** Explain maintenance strategies for handling equipment.
+       - ❓ Briefly explain the maintenance of chains and slings.  
+       - ❓ Briefly explain the maintenance of clamps.  
 
 5. **Hearing Conservation Program**  
-   - **Q8:** Explain key features of a hearing conservation program.
-
+   - ❓ Discuss the key elements of a hearing conservation program.  
+   - ❓ Explain the key features of a hearing conservation program in production industries.
 
 ---
 
