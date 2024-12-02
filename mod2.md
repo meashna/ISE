@@ -341,6 +341,24 @@ Standards for Personal Protective Equipment (PPE) ensure that protective gear me
 Monitoring safety performance is critical for understanding workplace hazards and taking preventive measures. Metrics like **Frequency Rate**, **Severity Rate**, **Incidence Rate**, and **Activity Rate** are used to evaluate and improve safety standards.
 
 
+### Frequency Rate
+**Formula:**
+(Number of disabling injuries / Total man-hours worked) × 1,000,000
+
+### Severity Rate
+**Formula:**
+(Number of man-days lost due to accidents / Total man-hours worked) × 1,000,000
+
+### Incidence Rate
+**Formula:**
+(Number of lost-time injuries / Total employees) × 1,000
+
+### Activity Rate
+**Formula:**
+(Safety activities conducted in a year) / (Total employees and man-hours worked)
+
+
+
 #### **1. Frequency Rate**
 
 **Definition:**  
