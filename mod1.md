@@ -1,10 +1,10 @@
 ### **Module I: Safety Introduction**
 
 1. **Need for Safety**  
-   - **Q1:** Write the importance of safety in organizations.
+   - ❓ Write the importance of safety in organizations.
 
 2. **Safety and Productivity**  
-   - **Q11:** Explain how safety management improves productivity in a firm.
+   - ❓ With suitable examples, explain how safety management improves the productivity of a firm.
 
 3. **Definitions**  
    - Accident  
@@ -13,17 +13,19 @@
    - Unsafe Condition  
    - Dangerous Occurrence  
    - Reportable Accidents  
-   - **Q2:** Differentiate between unsafe acts and unsafe conditions with examples from the construction industry.
+   - ❓ With suitable examples, differentiate between unsafe acts and unsafe conditions referred to the construction industry.
 
 4. **Theories of Accident Causation**  
-   - **Q11a:** Explain Heinrich's domino theory for accident causation. Mention any two modifications made to this concept.  
-   - **Q12:** List various accident causation theories and explain any two in detail.
+   - ❓ Explain Heinrich's domino theory for accident causation. Mention any two modifications made to this basic concept.  
+   - ❓ List various accident causation theories and explain any two in detail with relevant schematics.  
+   - ❓ Explain the various theories of accident causation.
 
 5. **Safety Organization**  
    - Objectives  
    - Types  
    - Functions  
-   - **Q12b:** With the help of schematics, describe the different types of safety organization.
+   - ❓ With suitable schematics, describe the different types of safety organization.  
+   - ❓ With a neat sketch, explain the safety organization structure. Also, write the importance of a safety organization structure.
 
 6. **Roles in Safety**  
    - Management  
@@ -32,24 +34,27 @@
    - Unions  
    - Government  
    - Voluntary Agencies  
-   - **Q3:** How do voluntary agencies support safety measures in various organizations?  
-   - **Q11b:** Explain the responsibilities of supervisors in ensuring safety.
+   - ❓ How do voluntary agencies support safety measures in various organizations?  
+   - ❓ List any six responsibilities of workers/workmen towards safety measures in an organization.  
+   - ❓ Explain the responsibilities of supervisors in ensuring safety.
 
 7. **Safety Policy**  
-   - **Q2:** How can you describe a safety policy?
+   - ❓ How can you describe a safety policy?
 
 8. **Safety Officer**  
    - Responsibilities  
    - Authority  
-   - **Q11b:** Explain the responsibilities of safety officers in implementing safety measures.
+   - ❓ Explain the responsibilities of a safety officer in the implementation of safety in industries.
 
 9. **Safety Committee**  
    - Need  
    - Types  
    - Advantages  
-   - **Q12:** Explain the six distinguished functions of a safety committee in an industry.
+   - ❓ Explain the six distinguished functions of a safety committee in an industry.
 
-
+10. **Industrial Safety Practices**  
+    - ❓ Explain any three unsafe acts responsible for accidents in industries.  
+    - ❓ What are the causes of industrial accidents?
 ---
 
 ## **1. Need for Safety**
