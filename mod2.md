@@ -1,41 +1,46 @@
 ### **Module II: Personal Protection in Work Environment**
 
 1. **Personal Protection in the Work Environment**  
-   - **Q3:** What is respiratory protective equipment? Explain features of one type.
+   - ❓ What is respiratory protective equipment (RPE)? Explain the features of any one type.
 
 2. **Types of PPEs**  
    - Respiratory Equipment  
    - Non-Respiratory Equipment  
-   - **Q13a:** Explain the functions of any three types of respiratory protective equipment.  
-   - **Q3a:** With suitable sketches, mention the features of any two PPE for eye protection.
+   - ❓ Explain the key functions of any three different types of respiratory protective equipment.  
+   - ❓ With suitable sketches, mention the features of any two PPE for eye protection in industrial hazardous sites.
 
 3. **Standards Related to PPEs**  
-   - **Q13b:** Explain the importance of adhering to PPE standards.
+   - ❓ Explain the importance of adhering to PPE standards.  
 
 4. **Monitoring Safety Performance**  
    - Frequency Rate  
    - Severity Rate  
    - Incidence Rate  
    - Activity Rate  
-   - **Q4:** How does frequency rate and incidence rate support safety analysis?  
-   - **Q14a:** Explain reactive measures for safety performance monitoring.
+   - ❓ How does frequency rate and incidence rate support safety analysis?  
+   - ❓ Write short notes on reactive measures for safety performance monitoring.
 
 5. **Housekeeping**  
    - Responsibility of Management and Employees  
    - Advantages of Good Housekeeping  
    - 5S of Housekeeping  
-   - **Q13:** Explain the benefits of good housekeeping.  
-   - **Q13a:** Discuss the 5S concept in housekeeping.
+   - ❓ Explain the benefits of good housekeeping.  
+   - ❓ Explain the five 'S' (5S) concept in housekeeping.  
+   - ❓ Discuss any ten important responsibilities of the housekeeping head of an organization.  
+   - ❓ Explain the role of management & employees in housekeeping.  
 
 6. **Work Permit System**  
    - Objectives  
    - Hot Work Permits  
    - Cold Work Permits  
-   - **Q4:** Write the significance of work permit systems.  
-   - **Q14:** What are the objectives of a work permit system in hazardous works?
+   - ❓ Write the significance of work permit systems.  
+   - ❓ What are the objectives of a work permit system in hazardous work sites?  
+   - ❓ Write short notes on the following:  
+     - Cold work permit  
+     - Hot work permit  
 
 7. **Entry into Confined Spaces**  
-   - **Q14b:** What procedures should be taken during confined space access to protect workers?
+   - ❓ What procedures should be taken during confined space access to protect a worker's life?
 
 ---
 
